@@ -6,3 +6,5 @@
 [Конспекты: что полезного я вынес из просмотра выступлений на конференциях](https://github.com/kuznetsovvj/education/blob/main/conference%20clips.md)
 
 Решенные алгоритмические задачи: [codeforces](https://github.com/kuznetsovvj/education/tree/main/algorithms/codeforces), [leetcode](https://github.com/kuznetsovvj/education/tree/main/algorithms/leetcode)
+
+[Слайды и презентации](https://github.com/kuznetsovvj/education/tree/main/slides/slides.md)
