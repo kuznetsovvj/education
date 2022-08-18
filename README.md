@@ -11,4 +11,6 @@
 
 [Подготовка к PSM I](https://github.com/kuznetsovvj/education/tree/main/psmi.md)
 
+[Книги](https://github.com/kuznetsovvj/education/tree/main/books.md)
+
 [Лист ожидания (ещё не просмотренные материалы)](https://github.com/kuznetsovvj/education/tree/main/waitinglist.md)
