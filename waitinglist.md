@@ -7,3 +7,5 @@
 [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
+
+[100 книг библиотеки Сбербанка](https://promo.sber.ru/180/book100)
