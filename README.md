@@ -13,4 +13,4 @@
 
 [Книги](https://github.com/kuznetsovvj/education/tree/main/books.md)
 
-[Лист ожидания (ещё не просмотренные материалы)](https://github.com/kuznetsovvj/education/tree/main/waitinglist.md)
+[План обучения](https://github.com/kuznetsovvj/education/tree/main/plans.md)
