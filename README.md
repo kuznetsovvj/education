@@ -13,4 +13,4 @@
 
 [Книги](https://github.com/kuznetsovvj/education/tree/main/books.md)
 
-[План обучения](https://github.com/kuznetsovvj/education/tree/main/plans.md)
+[План развития](https://github.com/kuznetsovvj/education/tree/main/plans.md)
