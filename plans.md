@@ -32,6 +32,7 @@
 - [ ] [Станислав Сидристый - Гибридная архитектура: разделяемый на модули монолит](https://conf.ontico.ru/videos/4536828)
 - [ ] [Максим Лапшин - История онлайн видео](https://conf.ontico.ru/videos/4536776)
 - [ ] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://conf.ontico.ru/videos/4380309)
+- [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
 - [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
 - [ ] Framework for Cyber-Physical Systems. Release 1.0
@@ -54,6 +55,7 @@
 - [ ] [Даниил Подольский - Под красным флагом: как инженер может понять, что в проекте происходит что-то не то](https://conf.ontico.ru/videos/4536805)
 - [ ] [Юрий Мисник - Как "Магнит" адаптируется к новым реалиям](https://conf.ontico.ru/videos/4380398)
 - [ ] [Дмитрий Пичугин, Роман Митасов - Как мы в Тинькофф Data Catalog создавали](https://conf.ontico.ru/videos/4380330)
+- [ ] [Александр Поломодов - Рост команды на порядок](https://www.youtube.com/watch?v=UUnM8_-PXt0)
 - [x] "Делай как в Google. Разработка программного обеспечения" [Обзор](https://vk.com/miyau?w=wall602216_2278%2Fall)
 - [ ] Леффингуэлл. Принципы работы с требованиями к программному обеспечению
 - [ ] Орам, Уилсон. Идеальная разработка ПО
@@ -96,6 +98,9 @@
 
 ## Неклассифицируемое
 
+- [ ] [Александр Макаров - Теория программирования: пакетный принцип](https://www.youtube.com/watch?v=esGaBY-LVlo)
+- [ ] [Игорь Беспальчук - Язык на пути к DevArch](https://www.youtube.com/watch?v=3QvzlFIuepQ)
 - [ ] Кузин. На линии огня (публичные выступления)
 - [ ] Шахиджанян. Ораторское искусство для начинающих
 - [ ] Джеффри Лайкер. Дао Toyota. 14 принципов менеджмента ведущий компании мира
+
