@@ -16,7 +16,7 @@
 - [ ] Mauricio Aniche. Effecting Software Testing
 - [ ] Smith. Entiry Framework Core in Action
 - [ ] Разработка open-source .NET библиотеки для фреймворка Twirp
-- [X] Участие в open-source проектах [GlazeWM, #157](https://github.com/lars-berger/GlazeWM/pull/157)
+- [X] Участие в open-source проектах [GlazeWM](https://github.com/lars-berger/GlazeWM/pulls?q=is%3Apr+author%3Akuznetsovvj) [efcore](https://github.com/dotnet/efcore/pulls?q=is%3Apr+author%3Akuznetsovvj)
 - [ ] Регулярный разбор алгоритмических задач leetcode и участие в турнирах на codeforces
 
 ## Архитектура программного обеспечения
