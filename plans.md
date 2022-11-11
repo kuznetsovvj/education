@@ -14,7 +14,7 @@
 - [ ] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
 - [ ] Jopesh Albahari. C# 10 in a Nutshell
 - [ ] Mauricio Aniche. Effecting Software Testing
-- [ ] Smith. Entiry Framework Core in Action
+- [ ] Джон Смит. Entiry Framework Core в действии
 - [ ] Разработка open-source .NET библиотеки для фреймворка Twirp
 - [X] Участие в open-source проектах [GlazeWM](https://github.com/lars-berger/GlazeWM/pulls?q=is%3Apr+author%3Akuznetsovvj) [efcore](https://github.com/dotnet/efcore/pulls?q=is%3Apr+author%3Akuznetsovvj)
 - [X] Регулярный разбор алгоритмических задач leetcode и участие в турнирах на codeforces [codeforces](https://codeforces.com/profile/minm) [leetcode](https://leetcode.com/vjkuznetsov/)
@@ -77,6 +77,7 @@
 - [ ] Ицхак Адизес. Развитие лидеров
 - [ ] Дэвид Льюис. Управление стрессом. Как найти дополнительные 10 часов в неделю
 - [X] Роджер Ловенстайн. Когда гений терпит поражение [Обзор](https://vk.com/miyau?w=wall602216_2280%2Fall)
+- [X] [Алексей Обровец - Питательная среда для качественной внутренней коммуникации](https://www.youtube.com/watch?v=DxgFO9E1Hn8&list=PL_L_HiHe5k_2sEh1wpJUQoEoTDjqralLV&index=4)
 
 ## Управление проектами
 
