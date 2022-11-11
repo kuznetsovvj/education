@@ -17,7 +17,7 @@
 - [ ] Smith. Entiry Framework Core in Action
 - [ ] Разработка open-source .NET библиотеки для фреймворка Twirp
 - [X] Участие в open-source проектах [GlazeWM](https://github.com/lars-berger/GlazeWM/pulls?q=is%3Apr+author%3Akuznetsovvj) [efcore](https://github.com/dotnet/efcore/pulls?q=is%3Apr+author%3Akuznetsovvj)
-- [ ] Регулярный разбор алгоритмических задач leetcode и участие в турнирах на codeforces
+- [X] Регулярный разбор алгоритмических задач leetcode и участие в турнирах на codeforces [codeforces](https://codeforces.com/profile/minm) [leetcode](https://leetcode.com/vjkuznetsov/)
 
 ## Архитектура программного обеспечения
 
