@@ -31,7 +31,7 @@
 - [ ] [Дмитрий Цветцих - Модульный монолит](https://www.youtube.com/watch?v=MBZLYQ84ieY)
 - [ ] [Станислав Сидристый - Гибридная архитектура: разделяемый на модули монолит](https://conf.ontico.ru/videos/4536828)
 - [ ] [Максим Лапшин - История онлайн видео](https://conf.ontico.ru/videos/4536776)
-- [ ] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://conf.ontico.ru/videos/4380309)
+- [X] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://www.youtube.com/watch?v=WWTq-tbZwUE&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=6)
 - [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
 - [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
