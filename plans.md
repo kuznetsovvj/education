@@ -23,7 +23,7 @@
 
 Основная задача: расширение кругозора, знакомство с проблемами, с которыми столкнулись другие компании, сценарии использования инструментов и "хорошие практики"
 
-- [ ] [Подборка видео "Архитектурный понедельник" с Марком Ричардса](https://www.developertoarchitect.com/lessons/)
+- [X] [Подборка видео "Архитектурный понедельник" с Марком Ричардса](https://www.developertoarchitect.com/lessons/) [Конспекты](https://github.com/kuznetsovvj/education/blob/main/Software%20Architecture%20Monday.md)
 - [ ] [Сергей Баранов - Многоликий DDD](https://www.youtube.com/watch?v=2WHarUW0PjI)
 - [ ] [Дмитрий Цветцих - Аспектно-ориентированное программирование на .NET](https://www.youtube.com/watch?v=XVJvsqTPeYY)
 - [ ] [Андрей Зорин - GraphQL: нестандартная реализация потоков данных](https://www.youtube.com/watch?v=L0caEdAls9g)
