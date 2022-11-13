@@ -2,19 +2,19 @@
 
 [Software Architecture Monday](https://www.developertoarchitect.com/lessons/)
 
-1. [**Request/Reply Pattern**](https://www.youtube.com/watch?v=3bxAm3XIFmk)
+1\. [**Request/Reply Pattern**](https://www.youtube.com/watch?v=3bxAm3XIFmk)
 
 Для имитации request/reply используем две разных очереди сообщений. Сообщения можно связывать по CorrelationId (Id моего сообщения превращается в CorrelationId ответа) или через временные очереди (очереди только для одного сообщения, вероятно, будет огромный overhead на создание/удаление очередей).
 
-2. [**Kafka vs Message Broker**](https://www.youtube.com/watch?v=lwMjjTT1Q-Q)
+2\. [**Kafka vs Message Broker**](https://www.youtube.com/watch?v=lwMjjTT1Q-Q)
 
 Kafka оптимизирована под постоянный поток простых сообщений key/value, с нагрузкой до 1M/s и только под паттерн Publisher/Subscriber. RabbitMQ удобнее для транзакционных сообщений (в том числе большого размера), нагрузка до 10K/s с поддержкой трех разных паттернов (point-2-point, publisher-subscriber и exchange/routing - распределение сообщения по разным очередям)
 
-3. [**Soft skills: Gaining Technical Breadth**](https://www.youtube.com/watch?v=vRplv975ce0)
+3\. [**Soft skills: Gaining Technical Breadth**](https://www.youtube.com/watch?v=vRplv975ce0)
 
 Для архитектора важна не только глубина знаний ("знаю, что знаю"), но и ширина знаний ("знаю, что знаю + знаю, что не знаю"). Чтобы повышать ширину знаний, нужно больше читать о новых событиях в мире, например, InfoQueue, Technical Radar или DZone.
 
-4. [**Microservices: Distributed Logging**](https://www.youtube.com/watch?v=S511BgBs_3E)
+4\. [**Microservices: Distributed Logging**](https://www.youtube.com/watch?v=S511BgBs_3E)
 
 Микросервисы отличаются сложностью отладки, поэтому нужны хорошие логи. Выбрать инструмент для сбора логов (splunk, logstash, kafka и другие) - половина дела. Полезные приёмы:
 
@@ -24,24 +24,24 @@ Kafka оптимизирована под постоянный поток про
 - консистентность контекста - принимать его как входной параметр по всех запросах
 - собственный wrapper для логов - это хорошо
 
-5. [**Microservices: Reducing Staging Iterations**](https://www.youtube.com/watch?v=dkLriZLXpU8)
+5\. [**Microservices: Reducing Staging Iterations**](https://www.youtube.com/watch?v=dkLriZLXpU8)
 
 При разделении монолита на микросервисы, по возможности, изменение архитектуры стоит вести параллельно с разворачиванием инфраструктуры и CI/CD процессов (силами devops)
 
-6. [**Classifying Architecture Patterns**](https://www.youtube.com/watch?v=Ic6q7S48Mho)
+6\. [**Classifying Architecture Patterns**](https://www.youtube.com/watch?v=Ic6q7S48Mho)
 
 - монолитные архитектуры (microkernel, layered, pipeline, modular monolith)
 - распределенные архитектуры (microservices, space-based, event-driven, service-based): создание контракта, поддержка, версионирование и координация контракта; проблемы с доступностью сервисов, медленнее вызовы удаленных процедур и протоколов, чем локальные; аутентификация и авторизация удаленных вызовов; распределенное логирование; атомарные транзакции и область видимости транзакции
 
-7. [**Analyzing Architecture: Structural Decay**](https://www.youtube.com/watch?v=gHLqroFX2Eg)
+7\. [**Analyzing Architecture: Structural Decay**](https://www.youtube.com/watch?v=gHLqroFX2Eg)
 
 Процесс анализа архитектуры - это изучение текущего состояния архитектуры проекта и подготовка советов, которые позволят его улучшить. Структурный распад - нарушение архитектурных принципов, которые были использованы при разработке архитектуры проекта
 
-8. [**Analyzing Architecture: Components**](https://www.youtube.com/watch?v=jrohK2unyE8)
+8\. [**Analyzing Architecture: Components**](https://www.youtube.com/watch?v=jrohK2unyE8)
 
 Во время анализа архитектуры важно разделить систему на компоненты. Компонентами могут быть подсистемы, слои, сервисы, обработчики событий, то из чего состоит приложение. В микросервисной архитектуры, как правило, компонентом является сам микросервис. Архитектура рассматривает взаимодействие между компонентами, а не их внутреннее устройство.
 
-9. [**Analyzing Architecture: Macro Techniques**](https://www.youtube.com/watch?v=h1So8tVukS8)
+9\. [**Analyzing Architecture: Macro Techniques**](https://www.youtube.com/watch?v=h1So8tVukS8)
 
 Индикаторы структурного распада на макро-уровне (всей системы):
 
@@ -49,7 +49,7 @@ Kafka оптимизирована под постоянный поток про
 - временное связывание (temporal coupling)
 - размер компонентов (component size)
 
-10. [**Analyzing Architecture: Microservices**](https://www.youtube.com/watch?v=U7s7Hb6GZCU)
+10\. [**Analyzing Architecture: Microservices**](https://www.youtube.com/watch?v=U7s7Hb6GZCU)
 
 Индикаторы структурного распада на уровне микросервисов:
 
@@ -58,7 +58,7 @@ Kafka оптимизирована под постоянный поток про
 - большое количество агрегирующих запросов (для ответа на входящий запрос, нужно сагрегировать информацию с многих других сервисов)
 - связывание баз данных (разделение баз данных между разными микросервисами)
 
-11. [**Analyzing Architecture: Code Metrics**](https://www.youtube.com/watch?v=pELKNy8B5Nw)
+11\. [**Analyzing Architecture: Code Metrics**](https://www.youtube.com/watch?v=pELKNy8B5Nw)
 
 Значение метрик не столь важно, сколько тенденция их изменения. Важнейшие метрики по Ричардсону:
 
@@ -70,11 +70,11 @@ Kafka оптимизирована под постоянный поток про
 - количество афферентных связей (центростремительных, внутренних)
 - количестве эфферентных связей (выносящих, внешних)
 
-12. [**CQRS and Microservices**](https://www.youtube.com/watch?v=pUGvXUBfvEE)
+12\. [**CQRS and Microservices**](https://www.youtube.com/watch?v=pUGvXUBfvEE)
 
 Command Query Responsibility Segregation - паттер проектирования, который предполагает разделение команд, меняющих состояние в базе данных, и запросов, которые получают данные из базы. Операции базы данных на чтение и запись требуют разных оптимизаций, поэтому разделение базы на две части - "базы на чтение" и "базы на запись" (первая база синхронизируется со второй) даст выигрыш в скорости. Дальнейшая оптимизация: разделение исходного сервиса на два: микросервис на чтение будет работать с высокопроизводительным кешем в оперативной памяти (memcache, redis), микросервис на запись - обновлять данные в базе данных ("холодное хранилище") и горячем кеше читающего сервиса.
 
-13. [**Microservices and Reporting**](https://www.youtube.com/watch?v=n_7PCFkxPPw)
+13\. [**Microservices and Reporting**](https://www.youtube.com/watch?v=n_7PCFkxPPw)
 
 Схемы для организации сводных отчетов:
 
@@ -82,21 +82,21 @@ Command Query Responsibility Segregation - паттер проектирован
 - http pull model - сервис отчетов забирает данные из API продуктовых сервисов (проблемы с производительностью, объемом данных)
 - event-based push model - публикация событий на стороне продуктовых сервисов, обработка и агрегация событий в БД сервиса отчетов
 
-14. [**Refactoring Patterns: Migration vs. Adaptaion**](https://www.youtube.com/watch?v=DKPn0AcvLKo)
+14\. [**Refactoring Patterns: Migration vs. Adaptaion**](https://www.youtube.com/watch?v=DKPn0AcvLKo)
 
 Миграция - замена некоторого компонента с заданным функционалом на новый. При миграции легко откатить изменения, снижается общий риск, но требует переключения логики запросов при смене компонентов. Адаптация - расширение функциональности уже имеющегося компонента ("на месте", без разворачивания нового сервиса). Адаптация сложнее в откате изменений, вызываемые компоненты не меняются. Выбор между миграцией и адаптацией определяется риском, стоимостью и связаностью системы.
 
-15. [**Refactoing: Business Justification**](https://www.youtube.com/watch?v=z2QjN6KKOQQ)
+15\. [**Refactoing: Business Justification**](https://www.youtube.com/watch?v=z2QjN6KKOQQ)
 
 При объяснении бизнесу "Зачем нам нужен рефакторинг?" не стоит использовать технические термины как всё станет здорово, следует четко объяснить, почему бизнесу нужно за это заплатить. Основных мотивации для бизнеса три: снижение расходов, снижение time-to-market, удовлетворенность пользователей.
 
 Пустые обещания ничего не стоят, обязательно нужно показывать измеримые метрики. Снижение расходов - количество багов, время на разработку и тетисрование; время поставки - часы разработки и время от идеи до поставки в продуктовую среду; удовлетворенность пользователей - количество багов, количество баг-репортов от пользователей, метрики производительности и скорости. Не стоит использовать опросы пользователей, они очень субъективны и предвзяты.
 
-16. [**The Challenge of Architecture Teams**](https://www.youtube.com/watch?v=RefvolwEOIc)
+16\. [**The Challenge of Architecture Teams**](https://www.youtube.com/watch?v=RefvolwEOIc)
 
 В командах архитекторов не может быть общего мнения, конфликты являются нормой. Целью работы команды архитекторов является выработка общего мнения, основанного на знаниях всей команды. В качестве решения можно использовать выбор медиатора; который после тщательного обсуждения мотивированных предложений, сделает решение. Тогда, все оставшиеся члены команды должны согласится с принятым решением.
 
-17. [**Architecture Tradeoffs**](https://www.youtube.com/watch?v=52haYbu80e8)
+17\. [**Architecture Tradeoffs**](https://www.youtube.com/watch?v=52haYbu80e8)
 
 Архитектурные компромиссы: производительность, масштабируемость, расширяемость, гибкость, ремонтопригодность (maintainability) и осуществимость (feasability) - по бюджету и срокам. ATAM (Architectury Tradeoffs Analysis Method) - способ анализа предлагаемых архитектур на соответствие бизнес-задачам и атрибутам качества. Минусы процесса: предлагаемая архитектура должна быть готова, stakeholders очень заняты и часто распределены, предполагает однократный процесс, без эволюции, предполагает, что все бизнес-требования известны.
 
@@ -109,7 +109,7 @@ Command Query Responsibility Segregation - паттер проектирован
 
 CBAM (cost-benefit analysis method) основан на максимизации разницы между преимуществами и стоимостью. [ATAM Technical Report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetId=5177)
 
-18. [**Fallacies of Distributed Computing**](https://www.youtube.com/watch?v=UZxLYv5RFyI)
+18\. [**Fallacies of Distributed Computing**](https://www.youtube.com/watch?v=UZxLYv5RFyI)
 
 Заблуждения, касающиеся распределенных систем:
 
@@ -121,3 +121,11 @@ CBAM (cost-benefit analysis method) основан на максимизации
 - есть только один администратор
 - транспортные затраты равны нулю (завтраты на сетевое оборудование)
 - сети гомогенные
+
+19\. [**Intergration Styles: File Transfer**](https://www.youtube.com/watch?v=_uRYlUuxjVA)
+
+В книге "Enterprise Integration Patterns" (Hohpe, Wolf, 2003) определяется четыре стиля интеграции: передача файлов, общая база данных, удаленный вызов процедур и сообщения. Основные протоколы передачи для файлов - FTP/SFTP, HDFS (Hadoop), SCP (Secure Copy Protocol), SMB (Server Message Block), CIFS (Common Internet File System). Преимущества: универсальный, простая интеграция, полная абстракция систем. Минусы: обработка ошибок очень сложна, медленная синхронизация данных (как узнать, что данные уже пора читать? только по расписанию?), передача исключительно только данных.
+
+20\. [**Integration Styles: Shared Databases**](https://www.youtube.com/watch?v=CSAFJNoT34M)
+
+Приложения ничего не знают друг о друге, но используют одну базу данных. Преимущества: универсальная интеграция (почти все системы доступны через SQL/ODBC), абстрация систем, независимость систем ("decoupling"), простота интеграции. Недостатки: плохо работает с ORM (ORM построены по принципу эксклюзивного владельца БД; много промахов кеша на стороне ORM), сложности с "бутылочными горлышками" производительности, сложности с изменениями схемы; данными не владеет никто.
