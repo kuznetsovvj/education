@@ -8,7 +8,7 @@
 - [x] [Андрей Парамонов - gRPC](https://www.youtube.com/watch?v=y5nLqQPSPBI)
 - [ ] [Денис Тарасов, Дмитрий Афанасьев - Атакуем цепочку поставнок](https://www.youtube.com/watch?v=v2C_Nu-y_TQ)
 - [X] [Сергей Васильев - Обработка XML-файлов как угроза безопасности](https://www.youtube.com/watch?v=7L21g7eedtA)
-- [ ] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
+- [X] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
 - [X] [Станислав Флусов - Миграция с MS SQL на PostgreSQL](https://www.youtube.com/watch?v=3DcCX89Mz78)
 - [ ] [Артем Рудневский - Exactly-once в микросервисной среде](https://www.youtube.com/watch?v=SKR1FK6qkZk)
 - [ ] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
