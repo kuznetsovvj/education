@@ -8,7 +8,7 @@
 - [x] [Андрей Парамонов - gRPC](https://www.youtube.com/watch?v=y5nLqQPSPBI)
 - [ ] [Денис Тарасов, Дмитрий Афанасьев - Атакуем цепочку поставнок](https://www.youtube.com/watch?v=v2C_Nu-y_TQ)
 - [X] [Сергей Васильев - Обработка XML-файлов как угроза безопасности](https://www.youtube.com/watch?v=7L21g7eedtA)
-- [ ] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
+- [X] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
 - [X] [Станислав Флусов - Миграция с MS SQL на PostgreSQL](https://www.youtube.com/watch?v=3DcCX89Mz78)
 - [ ] [Артем Рудневский - Exactly-once в микросервисной среде](https://www.youtube.com/watch?v=SKR1FK6qkZk)
 - [ ] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
@@ -23,7 +23,7 @@
 
 Основная задача: расширение кругозора, знакомство с проблемами, с которыми столкнулись другие компании, сценарии использования инструментов и "хорошие практики"
 
-- [ ] [Подборка видео "Архитектурный понедельник" с Марком Ричардса](https://www.developertoarchitect.com/lessons/)
+- [X] Уроки "Архитектурный понедельник" Марка Ричардса [Конспекты](https://github.com/kuznetsovvj/education/blob/main/Software%20Architecture%20Monday.md)
 - [ ] [Сергей Баранов - Многоликий DDD](https://www.youtube.com/watch?v=2WHarUW0PjI)
 - [ ] [Дмитрий Цветцих - Аспектно-ориентированное программирование на .NET](https://www.youtube.com/watch?v=XVJvsqTPeYY)
 - [ ] [Андрей Зорин - GraphQL: нестандартная реализация потоков данных](https://www.youtube.com/watch?v=L0caEdAls9g)
@@ -31,7 +31,7 @@
 - [ ] [Дмитрий Цветцих - Модульный монолит](https://www.youtube.com/watch?v=MBZLYQ84ieY)
 - [ ] [Станислав Сидристый - Гибридная архитектура: разделяемый на модули монолит](https://conf.ontico.ru/videos/4536828)
 - [ ] [Максим Лапшин - История онлайн видео](https://conf.ontico.ru/videos/4536776)
-- [ ] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://conf.ontico.ru/videos/4380309)
+- [X] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://www.youtube.com/watch?v=WWTq-tbZwUE&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=6)
 - [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
 - [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
@@ -104,4 +104,3 @@
 - [ ] Кузин. На линии огня (публичные выступления)
 - [ ] Шахиджанян. Ораторское искусство для начинающих
 - [ ] Джеффри Лайкер. Дао Toyota. 14 принципов менеджмента ведущий компании мира
-
