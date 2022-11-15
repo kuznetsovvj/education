@@ -11,7 +11,7 @@
 - [X] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
 - [X] [Станислав Флусов - Миграция с MS SQL на PostgreSQL](https://www.youtube.com/watch?v=3DcCX89Mz78)
 - [ ] [Артем Рудневский - Exactly-once в микросервисной среде](https://www.youtube.com/watch?v=SKR1FK6qkZk)
-- [ ] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
+- [X] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
 - [ ] Jopesh Albahari. C# 10 in a Nutshell
 - [ ] Mauricio Aniche. Effecting Software Testing
 - [ ] Джон Смит. Entiry Framework Core в действии
