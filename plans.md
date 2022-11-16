@@ -33,6 +33,7 @@
 - [ ] [Максим Лапшин - История онлайн видео](https://conf.ontico.ru/videos/4536776)
 - [X] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://www.youtube.com/watch?v=WWTq-tbZwUE&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=6)
 - [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
+- [X] [Александр Тоболь - VK Видео: архитектура крупнейшей видеоплатформы](https://www.youtube.com/watch?v=8ICxQ-UPVn0&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=3)
 - [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
 - [ ] Framework for Cyber-Physical Systems. Release 1.0
