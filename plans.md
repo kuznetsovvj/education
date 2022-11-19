@@ -6,7 +6,7 @@
 
 - [ ] [Григорий Кошелев - Kafka: от теории к практике](https://www.youtube.com/watch?v=ghKnX5fuW5s)
 - [x] [Андрей Парамонов - gRPC](https://www.youtube.com/watch?v=y5nLqQPSPBI)
-- [ ] [Денис Тарасов, Дмитрий Афанасьев - Атакуем цепочку поставнок](https://www.youtube.com/watch?v=v2C_Nu-y_TQ)
+- [X] [Денис Тарасов, Дмитрий Афанасьев - Атакуем цепочку поставнок](https://www.youtube.com/watch?v=v2C_Nu-y_TQ)
 - [X] [Сергей Васильев - Обработка XML-файлов как угроза безопасности](https://www.youtube.com/watch?v=7L21g7eedtA)
 - [X] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
 - [X] [Станислав Флусов - Миграция с MS SQL на PostgreSQL](https://www.youtube.com/watch?v=3DcCX89Mz78)
