@@ -10,7 +10,6 @@
 - [X] [Сергей Васильев - Обработка XML-файлов как угроза безопасности](https://www.youtube.com/watch?v=7L21g7eedtA)
 - [X] [Огородников, Просин, Хабаров - Аутентификация на платформе ASP.NET Core](https://www.youtube.com/watch?v=hFwIAPG6V4I)
 - [X] [Станислав Флусов - Миграция с MS SQL на PostgreSQL](https://www.youtube.com/watch?v=3DcCX89Mz78)
-- [ ] [Артем Рудневский - Exactly-once в микросервисной среде](https://www.youtube.com/watch?v=SKR1FK6qkZk)
 - [X] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
 - [ ] Jopesh Albahari. C# 10 in a Nutshell
 - [ ] Mauricio Aniche. Effecting Software Testing
@@ -34,6 +33,7 @@
 - [X] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://www.youtube.com/watch?v=WWTq-tbZwUE&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=6)
 - [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
 - [X] [Александр Тоболь - VK Видео: архитектура крупнейшей видеоплатформы](https://www.youtube.com/watch?v=8ICxQ-UPVn0&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=3)
+- [X] [Артем Рудневский - Exactly-once в микросервисной среде](https://www.youtube.com/watch?v=SKR1FK6qkZk)
 - [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
 - [ ] Framework for Cyber-Physical Systems. Release 1.0
