@@ -13,7 +13,7 @@
 - [X] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
 - [ ] Jopesh Albahari. C# 10 in a Nutshell
 - [ ] Mauricio Aniche. Effecting Software Testing
-- [ ] Джон Смит. Entiry Framework Core в действии
+- [X] Джон Смит. Entiry Framework Core в действии
 - [ ] Разработка open-source .NET библиотеки для фреймворка Twirp
 - [X] Участие в open-source проектах [GlazeWM](https://github.com/lars-berger/GlazeWM/pulls?q=is%3Apr+author%3Akuznetsovvj) [efcore](https://github.com/dotnet/efcore/pulls?q=is%3Apr+author%3Akuznetsovvj)
 - [X] Регулярный разбор алгоритмических задач leetcode и участие в турнирах на codeforces [codeforces](https://codeforces.com/profile/minm) [leetcode](https://leetcode.com/vjkuznetsov/)
