@@ -13,7 +13,7 @@
 - [X] [Евгений Пешков - Клиентский HTTP в .NET: от WebRequest до SocketHttpHandler](https://www.youtube.com/watch?v=YvczsQP1SLM)
 - [ ] Jopesh Albahari. C# 10 in a Nutshell
 - [ ] Mauricio Aniche. Effecting Software Testing
-- [ ] Джон Смит. Entiry Framework Core в действии
+- [X] Джон Смит. Entiry Framework Core в действии
 - [ ] Разработка open-source .NET библиотеки для фреймворка Twirp
 - [X] Участие в open-source проектах [GlazeWM](https://github.com/lars-berger/GlazeWM/pulls?q=is%3Apr+author%3Akuznetsovvj) [efcore](https://github.com/dotnet/efcore/pulls?q=is%3Apr+author%3Akuznetsovvj)
 - [X] Регулярный разбор алгоритмических задач leetcode и участие в турнирах на codeforces [codeforces](https://codeforces.com/profile/minm) [leetcode](https://leetcode.com/vjkuznetsov/)
@@ -29,7 +29,7 @@
 - [ ] [Дмитрий Нестерук - Черная магия паттерна "посетитель"](https://www.youtube.com/watch?v=H7TjVnpXA5o)
 - [ ] [Дмитрий Цветцих - Модульный монолит](https://www.youtube.com/watch?v=MBZLYQ84ieY)
 - [ ] [Станислав Сидристый - Гибридная архитектура: разделяемый на модули монолит](https://conf.ontico.ru/videos/4536828)
-- [ ] [Максим Лапшин - История онлайн видео](https://conf.ontico.ru/videos/4536776)
+- [X] [Максим Лапшин - История онлайн видео](https://conf.ontico.ru/videos/4536776)
 - [X] [Александр Кривощеков - Паттерны отказоустойчивой архитектуры](https://www.youtube.com/watch?v=WWTq-tbZwUE&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=6)
 - [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
 - [X] [Александр Тоболь - VK Видео: архитектура крупнейшей видеоплатформы](https://www.youtube.com/watch?v=8ICxQ-UPVn0&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=3)
