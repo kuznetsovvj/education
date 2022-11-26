@@ -1,25 +1,25 @@
 # https://codeforces.com/problemset/problem/327/A
 
-# С помощью обычного стека
+# Основная идея - динамика, но после анализа она свелась к одному проходу по последовательности
+# Классная задача, немного кайфанул
 
 def check(seq):
-    cnt, stack, ones = 0, 0, 0
+    # mx - текущий максимум во всей таблице
+    # base - количество "1" в исходной последовательности, 
+    # от него мы отталкиваемся, когда считаем - максимальную сумму при условии, что отрезок "переворота" начнется в элементе item
+    # mx_lvl - максимальная сумма, если отрезок "переворота" уже был открыт раньше
+    mx, base, mx_lvl = 0, sum(seq), 0
     for item in seq:
-        if not stack:
-            if item:
-                cnt += 1
-            else:
-                stack += 1
+        # выбираем максимум: или выгоднее начать новый отрезок, или воспользоваться уже открытым
+        lvl = max(base, mx_lvl)
+        if item:
+            lvl -= 1
         else:
-            if item:
-                ones += 1
-                stack -= 1
-            else:
-                stack += 1
-            if stack == 0:
-                cnt += ones
-                ones = 0
-    return cnt
+            lvl += 1
+        mx = max(mx, lvl)
+        mx_lvl = lvl
+    return mx
+
 
 input()
 seq = tuple(map(int, input().split()))
