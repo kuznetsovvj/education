@@ -6,7 +6,7 @@
 
 ### Видео по разработке на .NET
 
-- [ ] [Григорий Кошелев - Kafka: от теории к практике](https://www.youtube.com/watch?v=ghKnX5fuW5s)
+- [X] [Григорий Кошелев - Kafka: от теории к практике](https://www.youtube.com/watch?v=ghKnX5fuW5s)
 - [x] [Андрей Парамонов - gRPC](https://www.youtube.com/watch?v=y5nLqQPSPBI)
 - [X] [Денис Тарасов, Дмитрий Афанасьев - Атакуем цепочку поставнок](https://www.youtube.com/watch?v=v2C_Nu-y_TQ)
 - [X] [Сергей Васильев - Обработка XML-файлов как угроза безопасности](https://www.youtube.com/watch?v=7L21g7eedtA)
