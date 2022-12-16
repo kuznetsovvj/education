@@ -44,6 +44,7 @@
 - [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
 - [X] [Александр Тоболь - VK Видео: архитектура крупнейшей видеоплатформы](https://www.youtube.com/watch?v=8ICxQ-UPVn0&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=3)
 - [X] [Артем Рудневский - Exactly-once в микросервисной среде](https://www.youtube.com/watch?v=SKR1FK6qkZk)
+- [X] [Александр Поломодов - Как подготовиться и пройти System Design интервью](https://www.youtube.com/watch?v=jUbOm0B-eKQ)
 
 ### Книги по теме "Архитектура программного обеспечения"
 
