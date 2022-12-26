@@ -57,7 +57,7 @@
 - [ ] Cameron, Crawley, Selva. Systems Architecture, Strategy and Product Development for Complex System
 - [ ] Eppinger, Browning. Design
 - [ ] Вернон. Реализация методов предметно-ориентированного программирования
-- [ ] Ибрам, Хасс. Паттерны Kubernetes.
+- [X] Ибрам, Хасс. Паттерны Kubernetes.
 - [ ] Милетт, Тьюн. Предметно-ориентированное проектирование
 - [ ] Физерс. Эффективная работа с унаследованным кодом
 
