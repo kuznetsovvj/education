@@ -129,3 +129,11 @@ CBAM (cost-benefit analysis method) основан на максимизации
 20\. [**Integration Styles: Shared Databases**](https://www.youtube.com/watch?v=CSAFJNoT34M)
 
 Приложения ничего не знают друг о друге, но используют одну базу данных. Преимущества: универсальная интеграция (почти все системы доступны через SQL/ODBC), абстрация систем, независимость систем ("decoupling"), простота интеграции. Недостатки: плохо работает с ORM (ORM построены по принципу эксклюзивного владельца БД; много промахов кеша на стороне ORM), сложности с "бутылочными горлышками" производительности, сложности с изменениями схемы; данными не владеет никто.
+
+21\. [**Integration Styles: Remote Procedure Invocation**](https://www.youtube.com/watch?v=OGgbajZNwpU)
+
+Приложение удалённо вызывает процедуру другого приложения и получает ответ. Используемые протоколы: REST (Representational State Transfer), SOAP (Simple Object Access Protocol), RMI (Remote Method Invocation), CORBA (Common Object Request Broker Architecture), WebSockets, gRPC. Преимущества: инкапсуляция данных и четкий владелец данных, внешняя интеграция систем (интеграция за файрволлами, шлюзами), экосистема фреймворков и инструментов. Недостатки: жесткая связность приложений, не реализуется асинхронная коммуникация, не реализуется "broadcast" (вещание ответа на запрос для многих потребителей).
+
+22\. [**Integration Styles: Messaging**](https://www.youtube.com/watch?v=Oq5VP0cKwXI)
+
+Подход с использованием "шины сообщений", "брокера сообщений". Протоколы: JMS (Java Messaging Service), MSMQ (Microsoft Message Queue), AMQP (Advanced Messaging Queuing Protocol), SNS (Amazon Simple Notification Service), SQS (Amazon Simple Queue Service), STOMP (Simple Text Oriented Messaing Protocol), SMPP (Short Message Peer-to-Peer), MQTT (MQ Telemetry Transport). Преимущества: отсутствие связности систем, гарантированная доставка, асинхронная коммуникация, "вещание на широкую публику", легко масштабировать. Недостатки: сложная интеграция за файрволлом, сложность реализации, сложность тестирования, кросс-платформенные стандарты, асинхронная обработка ошибок.
