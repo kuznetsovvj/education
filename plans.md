@@ -129,3 +129,13 @@
 - [ ] Кузин. На линии огня (публичные выступления)
 - [ ] Шахиджанян. Ораторское искусство для начинающих
 - [ ] ~~Джеффри Лайкер. Дао Toyota. 14 принципов менеджмента ведущий компании мира~~
+
+## Playlist с конференций
+
+- [ ] [HighLoad Foundation 2022](https://www.youtube.com/playlist?list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao)
+- [ ] [HighLoad 2022](https://www.youtube.com/playlist?list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K)
+- [ ] [TeamLeadConf 2022](https://www.youtube.com/playlist?list=PL_L_HiHe5k_2sEh1wpJUQoEoTDjqralLV)
+- [ ] [DevOpsConf 2022](https://www.youtube.com/playlist?list=PLrFmwYyxJyVMCJzIwqiAQx9-p8UGi4Kci)
+- [ ] [TestDrivenConf 2022](https://www.youtube.com/playlist?list=PL3K8pTggFkO4jyuJZDMF0EkL2n7hWeV7G)
+- [ ] [CodeFest 12 2022](https://www.youtube.com/playlist?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)
+- [ ] [SECR 2019](https://www.youtube.com/playlist?list=PLNcc67qYVXQ2S80h02rN8ZCeUX_lzyVhn)
