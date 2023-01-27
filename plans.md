@@ -138,4 +138,8 @@
 - [ ] [DevOpsConf 2022](https://www.youtube.com/playlist?list=PLrFmwYyxJyVMCJzIwqiAQx9-p8UGi4Kci)
 - [ ] [TestDrivenConf 2022](https://www.youtube.com/playlist?list=PL3K8pTggFkO4jyuJZDMF0EkL2n7hWeV7G)
 - [ ] [CodeFest 12 2022](https://www.youtube.com/playlist?list=PL8761XQAJnra2OI2zSXwiymJrCDqehhxG)
+- [ ] [TechLeadConf 2021](https://www.youtube.com/playlist?list=PLH-XmS0lSi_xSkWvzkT0C5JkwP9mgcAP-)
+- [ ] [HighLoad 2021 Весна](https://www.youtube.com/playlist?list=PLH-XmS0lSi_xQtVkWsUMSVUScK_3G_LUP)
+- [ ] [TeamLeadConf 2021](https://www.youtube.com/playlist?list=PL_L_HiHe5k_3-tsj1bGSsHf4MVaEFaelB)
+- [ ] [TechLead Podlodka Crew 2](https://www.youtube.com/playlist?list=PLNSmyatBJig4nv7SPXWxvroj7Rw4vCpWc)
 - [ ] [SECR 2019](https://www.youtube.com/playlist?list=PLNcc67qYVXQ2S80h02rN8ZCeUX_lzyVhn)
