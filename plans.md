@@ -143,3 +143,5 @@
 - [ ] [TeamLeadConf 2021](https://www.youtube.com/playlist?list=PL_L_HiHe5k_3-tsj1bGSsHf4MVaEFaelB)
 - [ ] [TechLead Podlodka Crew 2](https://www.youtube.com/playlist?list=PLNSmyatBJig4nv7SPXWxvroj7Rw4vCpWc)
 - [ ] [SECR 2019](https://www.youtube.com/playlist?list=PLNcc67qYVXQ2S80h02rN8ZCeUX_lzyVhn)
+- [ ] [DDDevotion](https://www.youtube.com/@DDDevotion/videos)
+- [ ] [DotNetRu](https://www.youtube.com/@DotNetRu)
