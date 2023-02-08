@@ -31,41 +31,49 @@
 
 Видео россыпью:
 
-- [ ] [Сергей Баранов - Многоликий DDD](https://www.youtube.com/watch?v=2WHarUW0PjI)
-- [ ] [Дмитрий Цветцих - Аспектно-ориентированное программирование на .NET](https://www.youtube.com/watch?v=XVJvsqTPeYY)
-- [ ] [Андрей Зорин - GraphQL: нестандартная реализация потоков данных](https://www.youtube.com/watch?v=L0caEdAls9g)
-- [ ] [Дмитрий Нестерук - Черная магия паттерна "посетитель"](https://www.youtube.com/watch?v=H7TjVnpXA5o)
-- [ ] [Дмитрий Цветцих - Модульный монолит](https://www.youtube.com/watch?v=MBZLYQ84ieY)
-- [ ] [Станислав Сидристый - Гибридная архитектура: разделяемый на модули монолит](https://conf.ontico.ru/videos/4536828)
-- [ ] [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU)
+| Просмотр | Видео | Описание | Что мне даст просмотр |
+| --- | --- | --- | --- |
+| | [Сергей Баранов - Многоликий DDD](https://www.youtube.com/watch?v=2WHarUW0PjI) | | |
+| | [Дмитрий Цветцих - Аспектно-ориентированное программирование на .NET](https://www.youtube.com/watch?v=XVJvsqTPeYY) | | |
+| | [Андрей Зорин - GraphQL: нестандартная реализация потоков данных](https://www.youtube.com/watch?v=L0caEdAls9g) | | |
+| | [Дмитрий Нестерук - Черная магия паттерна "посетитель"](https://www.youtube.com/watch?v=H7TjVnpXA5o) | | |
+| | [Дмитрий Цветцих - Модульный монолит](https://www.youtube.com/watch?v=MBZLYQ84ieY) | | |
+| | [Станислав Сидристый - Гибридная архитектура: разделяемый на модули монолит](https://conf.ontico.ru/videos/4536828) | | |
+| | [Максим Юнусов - Свобода принятия архитектурного решения](https://www.youtube.com/watch?v=8ueXk66NozU) | | |
 
 ### Книги по теме "Архитектура программного обеспечения"
 
-Книг и материалов слишком много. Необходимо приоритезировать их на ближайшее полугодие.
+**Tier1:**
 
-- [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
-- [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
-- [ ] Framework for Cyber-Physical Systems. Release 1.0
+- [ ] Mark Richards. Fundamentals of Sotfware Architecute
+- [ ] John Ousterhout. A Philosophy of Software Design
 - [ ] Martin Fowler. Patterns of Enterprise Application Architecture
-- [ ] Michal Nygard. Release It! Design and Deploy Production-Ready Software
-- [ ] Abbruzzese, Baptista. Software Architecture with C# 9 and .NET 5
-- [ ] Cameron, Crawley, Selva. Systems Architecture, Strategy and Product Development for Complex System
-- [ ] Eppinger, Browning. Design
-- [ ] Вернон. Реализация методов предметно-ориентированного программирования
+- [ ] Bruce Cameron, Edward Crawley, Daniel Selva. Systems Architecture, Strategy and Product Development for Complex System
+- [ ] Len Bass, Paul Clements, Rick Kazman. Software Architecte in Practice
+- [ ] Вон Вернон. Реализация методов предметно-ориентированного программирования
+- [ ] Дин Леффингуэлл. Принципы работы с требованиями к программному обеспечению
+- [ ] Эрик Эванс. Предметно-ориентированное проектирование (*перечитать еще раз с вниманием к деталям*)
+
+**Tier2:**
+
+- [ ] Орам, Уилсон. Идеальная разработка ПО
+- [ ] Mauricio Aniche. Effecting Software Testing
 - [ ] Милетт, Тьюн. Предметно-ориентированное проектирование
 - [ ] Физерс. Эффективная работа с унаследованным кодом
-
-- [ ] Mauricio Aniche. Effecting Software Testing (*книга скорее про юнит-тестирование, но стоит прочитать для упорядочивания знаний*)
-
-Нормативные и сопутствующие материалы
-
-- [ ] Леффингуэлл. Принципы работы с требованиями к программному обеспечению
-- [ ] Орам, Уилсон. Идеальная разработка ПО
-- [ ] ISO 15288-2015 System life cycle processes
+- [ ] Eppinger, Browning. Design
+- [ ] Abbruzzese, Baptista. Software Architecture with C# 9 and .NET 5
+- [ ] Michal Nygard. Release It! Design and Deploy Production-Ready Software
+- [ ] [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [ ] [Microsoft: dotnet-architecture books](https://github.com/dotnet-architecture/eShopOnContainers/wiki/eBooks)
 - [ ] ISO IEC IEEE 42020 Architecture processes
+- [ ] ISO 15288-2015 System life cycle processes
 - [X] ГОСТ 57100 (ISO 42010) Описание архитектуры
 - [ ] ГОСТ 27193-2016 Процессы жизненного цикла системы
 - [ ] DAMA-DMBoK. Свод знаний по управлению данными
+
+**Tier3:**
+
+- [ ] Framework for Cyber-Physical Systems. Release 1.0
 
 ## Выполненное
 
