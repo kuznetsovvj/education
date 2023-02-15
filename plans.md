@@ -143,7 +143,6 @@
 - [ ] PMI PMBoK Guide 7th edition (сокращенный agile PMBoK)
 - [ ] PMI PMBoK Guide 6th edition (классический PMBoK)
 - [ ] BPM CBoK. Свод знаний по управлению бизнес-процессами
-
 - [ ] Шервуд. Системное мышление для руководителей. Практика решения бизнес-проблем
 - [ ] Получить сертификат Professional Scrum Master I
 
