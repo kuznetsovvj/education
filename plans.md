@@ -17,7 +17,7 @@
 Плейлисты с конференций. Просматривать все подряд не рационально и нет времени, задача: пройти по всему плейлисту, наиболее ценные видео или посмотреть сразу же или добавить в список отдельно, после этого отметить плейлист как "пройденный".
 
 - [X] [HighLoad Foundation 2022](https://www.youtube.com/playlist?list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao)
-- [ ] [HighLoad 2022](https://www.youtube.com/playlist?list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K)
+- [X] [HighLoad 2022](https://www.youtube.com/playlist?list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K)
 - [ ] [TeamLeadConf 2022](https://www.youtube.com/playlist?list=PL_L_HiHe5k_2sEh1wpJUQoEoTDjqralLV)
 - [ ] [DevOpsConf 2022](https://www.youtube.com/playlist?list=PLrFmwYyxJyVMCJzIwqiAQx9-p8UGi4Kci)
 - [ ] [TestDrivenConf 2022](https://www.youtube.com/playlist?list=PL3K8pTggFkO4jyuJZDMF0EkL2n7hWeV7G)
@@ -45,7 +45,7 @@
 | | [Иван Решетин - GraphQL: простая schema провала](https://www.youtube.com/watch?v=DjnMTNZQLeQ&list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K&index=108) | Проблемы внедрения GraphQL с точки зрения команды |
 | | [Дмитрий Евдокимов - Сочетание несочетаемого в Kubernetes: удобство, производительность, безопасность](https://www.youtube.com/watch?v=zAtDlYDKavM&list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K&index=76) | В данном докладе хочется развенчать миф, что из 3-х качеств (удобство, производительность, безопасность) одновременно можно выбрать только 2. И все это благодаря новым решениям, подходам, инструментам, которые дружно уживаются и дополняют друг друга в Kubernetes! |
 | | [Илья Орлов - Укрощение мифического чудовища: реальный опыт промышленного использования ScyllaDB](https://www.youtube.com/watch?v=q8fM5XrOQQI&list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K&index=62) | "Кассандра — прошлый век", — говорили они, — "Переходите на Сциллу". Написана на плюсах, быстрая, надежная, с шардированием из коробки |
-| | [Ирина Блажина, Николай Зайцев - SSO-решение на 5 млн пользователей](https://www.youtube.com/watch?v=g20bvH5LdEQ&list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K&index=49) | У нас было порядка 20 клиентских мобильных и веб-приложений с локальной аутентификацией, написанных разными командами со своими процессами и уязвимостями. Переключаться между приложениями было сложно, пользователям это не нравилось | 
+| | [Ирина Блажина, Николай Зайцев - SSO-решение на 5 млн пользователей](https://www.youtube.com/watch?v=g20bvH5LdEQ&list=PLH-XmS0lSi_z45jTyyS4ZebvZnNWbhO4K&index=49) | У нас было порядка 20 клиентских мобильных и веб-приложений с локальной аутентификацией, написанных разными командами со своими процессами и уязвимостями. Переключаться между приложениями было сложно, пользователям это не нравилось |
 | | [Сергей Баранов - Многоликий DDD](https://www.youtube.com/watch?v=2WHarUW0PjI) | |
 | | [Дмитрий Цветцих - Аспектно-ориентированное программирование на .NET](https://www.youtube.com/watch?v=XVJvsqTPeYY) | |
 | | [Андрей Зорин - GraphQL: нестандартная реализация потоков данных](https://www.youtube.com/watch?v=L0caEdAls9g) | |
