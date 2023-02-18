@@ -1,16 +1,15 @@
 # education
-Репозиторий с образовательными проектами
 
-[Конспекты видеоуроков по архитектуре Марка Ричардса](https://github.com/kuznetsovvj/education/blob/main/Software%20Architecture%20Monday.md)
+## Репозиторий с образовательными проектами. Актуальное
 
-[Конспекты: что полезного я вынес из просмотра выступлений на конференциях](https://github.com/kuznetsovvj/education/blob/main/conference%20clips.md)
+[Общий план план развития](plans.md)
 
-Решенные алгоритмические задачи: [codeforces](https://github.com/kuznetsovvj/education/tree/main/algorithms/codeforces), [leetcode](https://github.com/kuznetsovvj/education/tree/main/algorithms/leetcode)
+[Конспекты видеоуроков по архитектуре Марка Ричардса](Software%20Architecture%20Monday.md)
 
-[Слайды и презентации](https://github.com/kuznetsovvj/education/tree/main/slides/slides.md)
+[Конспекты: что полезного я вынес из просмотра выступлений на конференциях](conference%20clips.md)
 
-[Подготовка к PSM I](https://github.com/kuznetsovvj/education/tree/main/psmi.md)
+[Список прочитанных книг](books.md)
 
-[Книги](https://github.com/kuznetsovvj/education/tree/main/books.md)
+### Потеряло актуальность
 
-[План развития](https://github.com/kuznetsovvj/education/tree/main/plans.md)
+[Подготовка к PSM I](psmi.md)
