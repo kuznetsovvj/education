@@ -28,7 +28,7 @@ Codeforces:
 
 Architecture Monday:
 
-- [35. Шаблон "Watch Notification"](Software%20Architecture%20Monday.md#L255)
-- [36. Встроенный брокер](Software%20Architecture%20Monday.md#L265)
+- [35. Шаблон "Watch Notification"](Software%20Architecture%20Monday.md#35-watch-notification-pattern)
+- [36. Встроенный брокер](Software%20Architecture%20Monday.md#36-embedded-messaging)
 
 Виленкин: [Глава 1. § 1-4](/courses/%D0%92%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0/1.md#L1)
