@@ -267,3 +267,14 @@ Component Coupling (связность компонентов) означает 
 Встроенный (embedded) брокер - брокер сообщений, который являются частью единицы развертывания (например, виртуальной машины). Классы, работающие на одной машине, коммуницируют через очереди сообщений. Данный подход позволяет избавляться от "бутылочных горлышек" и использовать параллелизм внутри одной виртуальной машины.
 
 Встроенный брокер можно использовать как часть внешнего API. Соединиться, положить в очередь внутреннего брокера, отключиться. Ответ принять аналогичным способом.
+
+### 37\. [**Translating Quality Attributes to Business Concerns**](https://www.youtube.com/watch?v=oP9Q9dpTomA)
+
+| Интересы бизнеса | Атрибуты качества |
+| --- | --- |
+| time to market | agility (скорость изменений), testability (быстрая проверка), deployability (частые деплои без ожиданий) |
+| user satisfaction | performance, availability, fault tolerance, testability, deployability, agility (медленные, недоступные или ошибающие приложения бесят) |
+| готовность к слияниям и поглощениям | agility, scalability, learnability, interoperability (documentation + simplicity), adaptability |
+| competitive advantage | agility, testability, deployability, scalability, availability, fault tolerance, adaptability |
+
+Мы не можем напрямую маппить требование качества в интерес бизнеса, например agility != time-to-market, потому что: agility + testability + deployability = time-to-market
