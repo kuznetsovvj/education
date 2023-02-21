@@ -6,8 +6,8 @@
 
 - [ ] Просмотреть "долги" по курсу "Комбинаторная оптимизация": одну лекцию и два семинара.
 - [X] 5 решенных алгоритмических задач с codeforces
-- [ ] 4 видео "Architecture Monday"
-- [ ] Видео с конференции: [Дмитрий Пичугин, Роман Митасов - Как мы в Тинькофф Data Catalog создавали](https://www.youtube.com/watch?v=jMATH538qsA&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=92)
+- [Х] 4 видео "Architecture Monday"
+- [Х] Видео с конференции: [Дмитрий Пичугин, Роман Митасов - Как мы в Тинькофф Data Catalog создавали](https://www.youtube.com/watch?v=jMATH538qsA&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=92)
 - [X] Виленкин "Комбинаторика". Глава 1, § 1-4.
 - [ ] Зорич "Математический анализ". Глава 1, § 1.
 - [ ] Кормен, Лейзерсон, Ривест, Штайн "Алгоритмы". Глава 1
@@ -28,11 +28,16 @@ Codeforces:
 - [1341A](algorithms/codeforces/1341a.py)
 - [1629A](algorithms/codeforces/1629a.py) - аккуратная реализация создания массива из кортежей и его сортировки
 - [1626A](algorithms/codeforces/1626a.py) - если просят сконструировать какой-то объект с заданными свойствами, надо проектировать самый простой. Просят строку с одинаковыми расстояниями между буквами - так путь это расстояние будет 1
+- [1359A](algorithms/codeforces/1359a.py) - мутное условие, много граничных кейсов, требует аккуратности, чтобы решить без помарок
+- [1632A](algorithms/codeforces/1632a.py) - любая строка, состоящая из 0 и 1, длины более 2 содержит в себе подстроку-палиндром. Строки, длиной в 1 символ, палиндрома не содержат; строки длиной 2 нужно проверить вручную на совпадение символов
 
 Architecture Monday:
 
 - [35. Шаблон "Watch Notification"](Software%20Architecture%20Monday.md#35-watch-notification-pattern)
 - [36. Встроенный брокер](Software%20Architecture%20Monday.md#36-embedded-messaging)
-- [37. Сопоставление интересов бизнеса и атрибутов качества](Software%20Architecture%20Monday.md)
+- [37. Сопоставление интересов бизнеса и атрибутов качества](Software%20Architecture%20Monday.md#37-translating-quality-attributes-to-business-concerns)
+- [38. Выделение микросервисов](Software%20Architecture%20Monday.md#37-translating-quality-attributes-to-business-concerns)
+
+Видео с конференции: [Краткий конспект выступления](conference%20clips.md#%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BF%D0%B8%D1%87%D1%83%D0%B3%D0%B8%D0%BD-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BC%D0%B8%D1%82%D0%B0%D1%81%D0%BE%D0%B2---%D0%BA%D0%B0%D0%BA-%D0%BC%D1%8B-%D0%B2-%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84-data-catalog-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D0%B8-highload)
 
 Виленкин: [Глава 1. § 1-4](/courses/%D0%92%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0/1.md#-1-4)
