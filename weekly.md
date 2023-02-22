@@ -9,7 +9,7 @@
 - [X] 4 видео "Architecture Monday"
 - [X] Видео с конференции: [Дмитрий Пичугин, Роман Митасов - Как мы в Тинькофф Data Catalog создавали](https://www.youtube.com/watch?v=jMATH538qsA&list=PLH-XmS0lSi_zCq4H_OZrXD509X23xwvao&index=92)
 - [X] Виленкин "Комбинаторика". Глава 1, § 1-4.
-- [ ] Зорич "Математический анализ". Глава 1, § 1.
+- [X] Зорич "Математический анализ". Глава 1, § 1.
 - [ ] Кормен, Лейзерсон, Ривест, Штайн "Алгоритмы". Глава 1
 
 ### 18 - 24 февраля: итоги
@@ -42,3 +42,5 @@ Architecture Monday:
 Видео с конференции: [Краткий конспект выступления](conference%20clips.md#%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BF%D0%B8%D1%87%D1%83%D0%B3%D0%B8%D0%BD-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BC%D0%B8%D1%82%D0%B0%D1%81%D0%BE%D0%B2---%D0%BA%D0%B0%D0%BA-%D0%BC%D1%8B-%D0%B2-%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84-data-catalog-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D0%B8-highload)
 
 Виленкин: [Глава 1. § 1-4](/courses/%D0%92%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0/1.md#-1-4)
+
+Зорич: [Глава 1. § 1](/courses/%D0%97%D0%BE%D1%80%D0%B8%D1%87%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/1.md)
