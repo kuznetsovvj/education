@@ -108,3 +108,7 @@ Codeforces:
 Codeforces:
 
 - [450A](/algorithms/codeforces/450a.py) - количество "подходов" детей за конфетами ```i // m + (i % m != 0)```, где ```i``` запросы ребенка, ```m``` выдача конфет за раз, с использованием питонного каста ```True = 1, False = 0```
+
+Architecture Monday:
+
+- [40. Общие шаблоны интеграции на примере Apache Camel](Software%20Architecture%20Monday.md#40-common-integration-patterns)
