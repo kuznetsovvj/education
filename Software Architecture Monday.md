@@ -317,3 +317,7 @@ Component Coupling (связность компонентов) означает 
 - enhance: как мы будем модифицировать сообщения до их отправки?
 
 Остальная часть ролика, про Apache Camel - фреймворк для интеграции.
+
+### 41\. [**Microservices Contract Versioning**](https://www.youtube.com/watch?v=iUpD4ZS8qg4)
+
+Применение версионирования на уровне headers (например, Accept: application/vnd.service.trade.v2+json) без изменения route и endpoints. На стороне бекенда можно использовать регулярное выражение для разбора header Accept. Стоит помнить про стратегию вывода версии контракта (contract deprecation version strategy).

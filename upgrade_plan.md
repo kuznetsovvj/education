@@ -29,3 +29,14 @@ Codeforces:
 - [734B](/algorithms/codeforces/734b.py)
 - [1220A](/algorithms/codeforces/1220a.py)
 - [1550A](/algorithms/codeforces/1550a.py)
+- [1285A](/algorithms/codeforces/1285a.py)
+- [1398A](/algorithms/codeforces/1398a.py)
+- [1557A](/algorithms/codeforces/1557a.py)
+- [1234A](/algorithms/codeforces/1234a.py)
+- [766B](/algorithms/codeforces/766b.py)
+- [688B](/algorithms/codeforces/688b.py)
+
+
+Architecture Monday:
+
+- [41. Версионироваине контрактов микросервисов](Software%20Architecture%20Monday.md#41-microservices-contract-versioning)
