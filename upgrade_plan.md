@@ -8,7 +8,7 @@
 
 ## Март 2023
 
-- [ ] 10 алгоритмических задач Codeforces
+- [X] 10 алгоритмических задач Codeforces
 - [ ] Виленкин "Комбинаторика". Глава 1, § 16-17, задачи 43-64.
 - [ ] Зорич "Математический анализ". Глава 1, § 2.
 - [ ] Марк Ричардс "Архитектурный понедельник", серии 41-44.
@@ -35,7 +35,10 @@ Codeforces:
 - [1234A](/algorithms/codeforces/1234a.py)
 - [766B](/algorithms/codeforces/766b.py)
 - [688B](/algorithms/codeforces/688b.py)
-
+- [1807A](/algorithms/codeforces/1807a.py)
+- [1807B](/algorithms/codeforces/1807b.py)
+- [1807C](/algorithms/codeforces/1807c.py)
+- [1807D](/algorithms/codeforces/1807d.py)
 
 Architecture Monday:
 
