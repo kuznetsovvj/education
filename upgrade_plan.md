@@ -35,10 +35,12 @@ Codeforces:
 - [1234A](/algorithms/codeforces/1234a.py)
 - [766B](/algorithms/codeforces/766b.py)
 - [688B](/algorithms/codeforces/688b.py)
-- [1807A](/algorithms/codeforces/1807a.py)
-- [1807B](/algorithms/codeforces/1807b.py)
-- [1807C](/algorithms/codeforces/1807c.py)
-- [1807D](/algorithms/codeforces/1807d.py)
+- [1807A](/algorithms/codeforces/1807a.py) - решена на Round 859 (Div.4)
+- [1807B](/algorithms/codeforces/1807b.py) - решена на Round 859 (Div.4)
+- [1807C](/algorithms/codeforces/1807c.py) - решена на Round 859 (Div.4)
+- [1807D](/algorithms/codeforces/1807d.py) - решена на Round 859 (Div.4)
+- [1807E](/algorithms/codeforces/1807e.py) - дорешивание Round 859, ни разу раньше не сталкивался с интерактивными задачи, обычная реализация бинарного поиска
+- [1807G](/algorithms/codeforces/1807g1.py) - дорешивание Round 859, обидно, что не догадался во время раунда до простого интуитивного алгоритма. Главная моя ошибка: не учел, что можно пренебречь порядком элементов и не работать с подпоследовательностями.
 
 Architecture Monday:
 
