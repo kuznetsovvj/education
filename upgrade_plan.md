@@ -10,7 +10,7 @@
 
 - [X] 10 алгоритмических задач Codeforces
 - [ ] Виленкин "Комбинаторика". Глава 1, § 16-17, задачи 43-64.
-- [ ] Зорич "Математический анализ". Глава 1, § 2.
+- [X] Зорич "Математический анализ". Глава 1, § 2.
 - [ ] Марк Ричардс "Архитектурный понедельник", серии 41-44.
 - [ ] Книга Mark Richards "Fundamentals of Sotfware Architecture"
 - [X] Книга Максим Дорофеев "Джедайские техники"
@@ -45,3 +45,8 @@ Codeforces:
 Architecture Monday:
 
 - [41. Версионироваине контрактов микросервисов](Software%20Architecture%20Monday.md#41-microservices-contract-versioning)
+- [42. Отложенная миграция данных](Software%20Architecture%20Monday.md#42-microservices-deffered-data-migration)
+
+Виленкин: [Глава 1. § 16-17](/courses/%D0%92%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0/1.md#-16-17)
+
+Зорич: решения упражнений § 2 в latex не делал (задачи достаточно простые и интуитивные).
