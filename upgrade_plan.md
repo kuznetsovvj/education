@@ -71,3 +71,7 @@ Architecture Monday:
 - [ ] Книга John Ousterhout "A Philosophy of Software Design"
 - [ ] [Scala-школа](https://twitter.github.io/scala_school/ru/). Уроки "Основы", "Основы языка. Продолжение", "Коллекции", "Сопоставление с образцом и функциональная композиция".
 - [ ] [Scala 99](https://aperiodic.net/phil/scala/s-99/). Решить первые 10 задач
+
+Codeforces:
+
+- [1196A](/algorithms/codeforces/1196a.py)
