@@ -63,7 +63,7 @@ Architecture Monday:
 
 ## Апрель 2023
 
-- [ ] Выступить на Panda Meetup с докладом "Платформенные команды"
+- [X] Выступить на Panda Meetup с докладом "Платформенные команды" [презентация](/slides/panda-meetup-52.pdf)
 - [ ] 40 алгоритмических задач Codeforces
 - [ ] Виленкин "Комбинаторика". Глава 1, § 16-17, задачи 46-64. Глава 2, § 18-19, задачи 1-10, § 20-21, задачи 11-14, § 22, задачи 15-20.
 - [ ] Марк Ричардс "Архитектурный понедельник", серии 43-52.
@@ -75,3 +75,9 @@ Architecture Monday:
 Codeforces:
 
 - [1196A](/algorithms/codeforces/1196a.py)
+- [1805A](/algorithms/codeforces/1805a.py) - решена на Round 862 (Div.2). Пришлось вспомнить коммутативность и транзитивность xor-операции
+- [1805B](/algorithms/codeforces/1805b.py) - решена на Round 862 (Div.2)
+
+Architecture Monday:
+
+- [43. Паттерн "Оркестрация"](Software%20Architecture%20Monday.md#43-microservices-orchestration-pattern)
