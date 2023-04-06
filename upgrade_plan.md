@@ -77,7 +77,12 @@ Codeforces:
 - [1196A](/algorithms/codeforces/1196a.py)
 - [1805A](/algorithms/codeforces/1805a.py) - решена на Round 862 (Div.2). Пришлось вспомнить коммутативность и транзитивность xor-операции
 - [1805B](/algorithms/codeforces/1805b.py) - решена на Round 862 (Div.2)
+- [1805C](/algorithms/codeforces/1805c.py) - дорешивание Round 862 (Div.2). На контесте разобрался с геометрией, решил задачу со сложностью O(mn), получил TLE. В гневе стал переписывать с python на C++, потратил на это 20 минут, снова получил TLE. Минус мораль и мотивация, не задумался об оптимизации до O(m log n) через банальный бинпоиск.
 
 Architecture Monday:
 
 - [43. Паттерн "Оркестрация"](Software%20Architecture%20Monday.md#43-microservices-orchestration-pattern)
+
+Виленкин:
+
+- [Глава 1. § 16-17](/courses/%D0%92%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0/1.md#-16-17)
