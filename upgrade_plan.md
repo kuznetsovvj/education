@@ -78,6 +78,12 @@ Codeforces:
 - [1805A](/algorithms/codeforces/1805a.py) - решена на Round 862 (Div.2). Пришлось вспомнить коммутативность и транзитивность xor-операции
 - [1805B](/algorithms/codeforces/1805b.py) - решена на Round 862 (Div.2)
 - [1805C](/algorithms/codeforces/1805c.py) - дорешивание Round 862 (Div.2). На контесте разобрался с геометрией, решил задачу со сложностью O(mn), получил TLE. В гневе стал переписывать с python на C++, потратил на это 20 минут, снова получил TLE. Минус мораль и мотивация, не задумался об оптимизации до O(m log n) через банальный бинпоиск.
+- [1811A](/algorithms/codeforces/1811a.py)
+- [1811B](/algorithms/codeforces/1811b.py)
+- [1328B](/algorithms/codeforces/1328b.py) - Задача на строки оказалась на применение суммы арифметической прогрессии и решение квадратного уравнения
+- [1400A](/algorithms/codeforces/1400a.py) - Воспользовался подсказкой на очень простой задаче, разочарование
+- [1511A](/algorithms/codeforces/1511a.py)
+- [599A](/algorithms/codeforces/599a.py)
 
 Architecture Monday:
 
