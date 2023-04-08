@@ -84,6 +84,8 @@ Codeforces:
 - [1400A](/algorithms/codeforces/1400a.py) - Воспользовался подсказкой на очень простой задаче, разочарование
 - [1511A](/algorithms/codeforces/1511a.py)
 - [599A](/algorithms/codeforces/599a.py)
+- [1256A](/algorithms/codeforces/1256a.py)
+- [1382A](/algorithms/codeforces/1382a.py)
 
 Architecture Monday:
 
