@@ -86,6 +86,9 @@ Codeforces:
 - [599A](/algorithms/codeforces/599a.py)
 - [1256A](/algorithms/codeforces/1256a.py)
 - [1382A](/algorithms/codeforces/1382a.py)
+- [1401A](/algorithms/codeforces/1401a.py) - С подсказкой
+- [479C](/algorithms/codeforces/479c.py)
+- [1359B](/algorithms/codeforces/1359b.py)
 
 Architecture Monday:
 
