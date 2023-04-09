@@ -2,7 +2,7 @@
 
 from collections import defaultdict
 
-
+# жадное решение, как и ожидалось, не проходит
 def check(seq):
 
     if len(seq) == 1:
@@ -29,8 +29,25 @@ def check(seq):
                 break
     return res
 
+# с подсказкой
+# ощущение, что все равно ни хера не понял идею
+def check2(seq):
+    r = [0] * (len(seq) + 1)
+    for item in seq:
+        r[item] += 1
+    res = 0
+    for i in range(2, 2*len(seq) + 1):
+        cur = 0
+        for t in range(1, (i + 1) // 2):
+            if i - t > len(seq):
+                continue
+            cur += min(r[t], r[i - t])
+        if i % 2 == 0:
+            cur += r[i // 2] // 2
+        res = max(res, cur)
+    return res
 
 for _ in range(int(input())):
     input()
     seq = tuple(map(int, input().split()))
-    print(check(seq))
+    print(check2(seq))
