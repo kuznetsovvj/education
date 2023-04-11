@@ -90,10 +90,15 @@ Codeforces:
 - [479C](/algorithms/codeforces/479c.py)
 - [1359B](/algorithms/codeforces/1359b.py)
 - [1399C](/algorithms/codeforces/1399c.py) - С подсказкой
+- [476B](/algorithms/codeforces/476b.py) - Решил за O(n), в эталонном решение сложность O(1), но заметно более замороченное
+- [119A](/algorithms/codeforces/119a.py)
+- [1462B](/algorithms/codeforces/1462b.py)
 
 Architecture Monday:
 
 - [43. Паттерн "Оркестрация"](Software%20Architecture%20Monday.md#43-microservices-orchestration-pattern)
+- [44. Паттерн "Агрегация"](Software%20Architecture%20Monday.md#44-microservices-aggregation-pattern)
+- [45. Паттерн "Шлюз"](Software%20Architecture%20Monday.md#45-microservices-gateway-pattern)
 
 Виленкин:
 
