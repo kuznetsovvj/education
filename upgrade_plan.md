@@ -96,6 +96,8 @@ Codeforces:
 - [1324B](/algorithms/codeforces/1324b.py) - Подловился на тестовом кейсе "1 1 1", со второй попытки
 - [1141A](/algorithms/codeforces/1141a.py)
 - [349A](/algorithms/codeforces/349a.py)
+- [1537B](/algorithms/codeforces/1537b.py) - Корректировал алгоритм после неудачных кейсов (стратегия "углы площадки" оказалась выгоднее, чем "максимальное отдаление по вертикали и горизонтали")
+- [1555A](/algorithms/codeforces/1555a.py)
 
 Architecture Monday:
 
