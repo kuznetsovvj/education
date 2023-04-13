@@ -98,6 +98,13 @@ Codeforces:
 - [349A](/algorithms/codeforces/349a.py)
 - [1537B](/algorithms/codeforces/1537b.py) - Корректировал алгоритм после неудачных кейсов (стратегия "углы площадки" оказалась выгоднее, чем "максимальное отдаление по вертикали и горизонтали")
 - [1555A](/algorithms/codeforces/1555a.py)
+- [1335D](/algorithms/codeforces/1335d.py)
+- [1182A](/algorithms/codeforces/1182a.py)
+- [1698A](/algorithms/codeforces/1698a.py)
+- [1702B](/algorithms/codeforces/1702b.py)
+- [1768A](/algorithms/codeforces/1768a.py)
+- [1487A](/algorithms/codeforces/1487a.py)
+- [709A](/algorithms/codeforces/709a.py)
 
 Architecture Monday:
 
