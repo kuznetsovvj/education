@@ -105,6 +105,9 @@ Codeforces:
 - [1768A](/algorithms/codeforces/1768a.py)
 - [1487A](/algorithms/codeforces/1487a.py)
 - [709A](/algorithms/codeforces/709a.py)
+- [1721A](/algorithms/codeforces/1721a.py)
+- [1324C](/algorithms/codeforces/1324c.py)
+- [255A](/algorithms/codeforces/255a.py)
 
 Architecture Monday:
 
@@ -112,6 +115,7 @@ Architecture Monday:
 - [44. Паттерн "Агрегация"](Software%20Architecture%20Monday.md#44-microservices-aggregation-pattern)
 - [45. Паттерн "Шлюз"](Software%20Architecture%20Monday.md#45-microservices-gateway-pattern)
 - [46. Реактивные архитектурные паттерны](Software%20Architecture%20Monday.md#46-reactive-architecture-patterns-introduction)
+- [47. Паттерт "Мониторинг канала"](Software%20Architecture%20Monday.md#47-channel-monitoring-pattern)
 
 Виленкин:
 
