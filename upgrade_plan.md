@@ -108,6 +108,8 @@ Codeforces:
 - [1721A](/algorithms/codeforces/1721a.py)
 - [1324C](/algorithms/codeforces/1324c.py)
 - [255A](/algorithms/codeforces/255a.py)
+- [1478A](/algorithms/codeforces/1478a.py)
+- [1480A](/algorithms/codeforces/1480a.py) - 12 задач подряд с первой попытки
 
 Architecture Monday:
 
