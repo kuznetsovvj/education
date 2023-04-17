@@ -110,6 +110,9 @@ Codeforces:
 - [255A](/algorithms/codeforces/255a.py)
 - [1478A](/algorithms/codeforces/1478a.py)
 - [1480A](/algorithms/codeforces/1480a.py) - 12 задач подряд с первой попытки
+- [118B](/algorithms/codeforces/118b.py) - "серая зона в условии", получил ошибку на первом тесте из-за того, чтобы дополнял "картинку" пробелами до полного квадрата, а это не требовалось
+- [698A](/algorithms/codeforces/698a.py) - "старый-добрый" codeforces, dp на А-задаче
+- [766A](/algorithms/codeforces/766a.py)
 
 Architecture Monday:
 
