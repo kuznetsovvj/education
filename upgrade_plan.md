@@ -113,6 +113,11 @@ Codeforces:
 - [118B](/algorithms/codeforces/118b.py) - "серая зона в условии", получил ошибку на первом тесте из-за того, чтобы дополнял "картинку" пробелами до полного квадрата, а это не требовалось
 - [698A](/algorithms/codeforces/698a.py) - "старый-добрый" codeforces, dp на А-задаче
 - [766A](/algorithms/codeforces/766a.py)
+- [330A](/algorithms/codeforces/330a.py)
+- [1562A](/algorithms/codeforces/1562a.py)
+- [1772B](/algorithms/codeforces/1772a.py)
+- [1811C](/algorithms/codeforces/1811c.py) - дорешивание  Round 863 (Div.3)
+- [1811D](/algorithms/codeforces/1811d.py) - дорешивание  Round 863 (Div.3). Потребовалось две попытки: алгоритм был совершенно одинаковый, но цикл с дополнительной переменной не прошел по времени, а рекурсия - прошла, удивительно.
 
 Architecture Monday:
 
