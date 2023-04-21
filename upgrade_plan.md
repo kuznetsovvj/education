@@ -118,6 +118,11 @@ Codeforces:
 - [1772B](/algorithms/codeforces/1772a.py)
 - [1811C](/algorithms/codeforces/1811c.py) - дорешивание  Round 863 (Div.3)
 - [1811D](/algorithms/codeforces/1811d.py) - дорешивание  Round 863 (Div.3). Потребовалось две попытки: алгоритм был совершенно одинаковый, но цикл с дополнительной переменной не прошел по времени, а рекурсия - прошла, удивительно.
+- [1701A](/algorithms/codeforces/1701a.py)
+- [1759A](/algorithms/codeforces/1759a.py)
+- [1569A](/algorithms/codeforces/1569a.py)
+- [1509A](/algorithms/codeforces/1509a.py)
+- [1697A](/algorithms/codeforces/1697a.py)
 
 Architecture Monday:
 
@@ -125,7 +130,9 @@ Architecture Monday:
 - [44. Паттерн "Агрегация"](Software%20Architecture%20Monday.md#44-microservices-aggregation-pattern)
 - [45. Паттерн "Шлюз"](Software%20Architecture%20Monday.md#45-microservices-gateway-pattern)
 - [46. Реактивные архитектурные паттерны](Software%20Architecture%20Monday.md#46-reactive-architecture-patterns-introduction)
-- [47. Паттерт "Мониторинг канала"](Software%20Architecture%20Monday.md#47-channel-monitoring-pattern)
+- [47. Паттерн "Мониторинг канала"](Software%20Architecture%20Monday.md#47-channel-monitoring-pattern)
+- [48. Паттерн "Тред-делегат"](Software%20Architecture%20Monday.md#48-thread-delegate-pattern)
+- [49. Что такое "корпоративная архитектура"?](Software%20Architecture%20Monday.md#49-what-is-enterprise-architecture)
 
 Виленкин:
 
