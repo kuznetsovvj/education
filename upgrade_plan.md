@@ -123,6 +123,8 @@ Codeforces:
 - [1569A](/algorithms/codeforces/1569a.py)
 - [1509A](/algorithms/codeforces/1509a.py)
 - [1697A](/algorithms/codeforces/1697a.py)
+- [1385C](/algorithms/codeforces/1385c.py) - с подсказкой, выстроить цепочки из неравенств "в две стороны" сам не догадался
+- [445A](/algorithms/codeforces/445a.py) - очень простая задача, если знать трюк с присвоением значений шахматной клетке исходя из четности суммы её координат
 
 Architecture Monday:
 
@@ -133,6 +135,7 @@ Architecture Monday:
 - [47. Паттерн "Мониторинг канала"](Software%20Architecture%20Monday.md#47-channel-monitoring-pattern)
 - [48. Паттерн "Тред-делегат"](Software%20Architecture%20Monday.md#48-thread-delegate-pattern)
 - [49. Что такое "корпоративная архитектура"?](Software%20Architecture%20Monday.md#49-what-is-enterprise-architecture)
+- [50. Модельно-ориентированный подход](Software%20Architecture%20Monday.md#50-model-driven-approach)
 
 Виленкин:
 
