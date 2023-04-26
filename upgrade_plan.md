@@ -138,6 +138,7 @@ Architecture Monday:
 - [48. Паттерн "Тред-делегат"](Software%20Architecture%20Monday.md#48-thread-delegate-pattern)
 - [49. Что такое "корпоративная архитектура"?](Software%20Architecture%20Monday.md#49-what-is-enterprise-architecture)
 - [50. Модельно-ориентированный подход](Software%20Architecture%20Monday.md#50-model-driven-approach)
+- [51. Инициативо-ориентированный подход](Software%20Architecture%20Monday.md#51-initiative-driven-approach)
 
 Виленкин:
 
