@@ -64,9 +64,9 @@ Architecture Monday:
 ## Апрель 2023
 
 - [X] Выступить на Panda Meetup с докладом "Платформенные команды" [презентация](/slides/panda-meetup-52.pdf)
-- [ ] 40 алгоритмических задач Codeforces
+- [X] 40 алгоритмических задач Codeforces
 - [ ] Виленкин "Комбинаторика". Глава 1, § 16-17, задачи 46-64. Глава 2, § 18-19, задачи 1-10, § 20-21, задачи 11-14, § 22, задачи 15-20.
-- [ ] Марк Ричардс "Архитектурный понедельник", серии 43-52.
+- [X] Марк Ричардс "Архитектурный понедельник", серии 43-52.
 - [ ] Книга Mark Richards "Fundamentals of Sotfware Architecture"
 - [ ] Книга John Ousterhout "A Philosophy of Software Design"
 - [ ] [Scala-школа](https://twitter.github.io/scala_school/ru/). Уроки "Основы", "Основы языка. Продолжение", "Коллекции", "Сопоставление с образцом и функциональная композиция".
@@ -139,6 +139,7 @@ Architecture Monday:
 - [49. Что такое "корпоративная архитектура"?](Software%20Architecture%20Monday.md#49-what-is-enterprise-architecture)
 - [50. Модельно-ориентированный подход](Software%20Architecture%20Monday.md#50-model-driven-approach)
 - [51. Инициативо-ориентированный подход](Software%20Architecture%20Monday.md#51-initiative-driven-approach)
+- [52. Современный подход](Software%20Architecture%20Monday.md#52-modern-approach)
 
 Виленкин:
 
