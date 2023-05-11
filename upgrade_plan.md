@@ -158,9 +158,11 @@ Architecture Monday:
 - [ ] \[Работа\] Пройти курс "Анализ систем" Давыдова и Борщёва
 - [ ] \[Работа\] Марк Ричардс "Архитектурный понедельник", серии 53-62
 - [ ] \[Работа\] Книга Mark Richards "Fundamentals of Sotfware Architecture"
-- [ ] \[Работа\][Scala-школа](https://twitter.github.io/scala_school/ru/). Уроки "Основы", "Основы языка. Продолжение", "Коллекции", "Сопоставление с образцом и функциональная композиция".
-- [ ] \[Работа\][Scala 99](https://aperiodic.net/phil/scala/s-99/). Решить первые 10 задач
+- [ ] \[Работа\] [Scala-школа](https://twitter.github.io/scala_school/ru/). Уроки "Основы", "Основы языка. Продолжение", "Коллекции", "Сопоставление с образцом и функциональная композиция".
+- [ ] \[Работа\] [Scala 99](https://aperiodic.net/phil/scala/s-99/). Решить первые 10 задач
 - [ ] \[Развлечение\] 30 алгоритмических задач Codeforces и Leetcode
 - [ ] \[Развлечение\] Виленкин "Комбинаторика". Глава 2, задачи 11-40.
 
 Тратить время на фиксацию задач Виленкина бессмысленно: в отличие от Зорича и Кормена, все решения приведены в самой книге.
+
+Задачи: [92m](/algorithms/leetcode/92m.py), [91m](/algorithms/leetcode/91m.py); не смог поучаствовать в Codeforces Round 871 (div.4), дорешал задания контеста в следующие вечера: [1829a](/algorithms/codeforces/1829a.py), [1829b](/algorithms/codeforces/1829b.py), [1829c](/algorithms/codeforces/1829c.py), [1829d](/algorithms/codeforces/1829d.py), [1829e](/algorithms/codeforces/1829e.py), [1829f](/algorithms/codeforces/1829f.py), [1829g](/algorithms/codeforces/1829g.py)
