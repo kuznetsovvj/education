@@ -399,3 +399,13 @@ TOGAF: бизнес-драйверы и цели (инициатива) и би�
 ### 53\. [**Distributed Transactions Using Sagas**](https://www.youtube.com/watch?v=g4cmX5ykmjo)
 
 Транзакции в микросервисах не поддерживают ACID-гарантии. Сага фактически развернется в конечный автомат (state machine) с сохранением состояние после каждого шага распределенной транзакции. В ролике есть примеры аннотация для java.
+
+### 54\. [**The Sotfware Architect Bookshelf**](https://www.youtube.com/watch?v=kxWFK16pugI)
+
+Книги про архитектуру ПО (обзор сделан в марте 2019 года):
+
+- James McGovern "The Practical Guide to Enterprise Architecture" (2003)
+- Richard Monson-Haefel "97 Things Every Software Architect Should Know" (2009)
+- Jeanne Ross, Peter Weill, David Robertso "Enterprise Architecture as Strategy" (2006)
+- Richard Hunter and George Westerman "The Real Business of IT" (2009)
+- Colin Powell "My American Journey" (2003)
