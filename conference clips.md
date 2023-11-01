@@ -1,6 +1,10 @@
 
 # Конспекты видео
 
+## Обзоры конференций
+
+[ArchDays 2023](/conference/archdays2023.md)
+
 ## **Разработка на .NET**
 
 ### [**Андрей Дятлов "Source Generator в действии", DotNext**](https://www.youtube.com/watch?v=6QWZds35rGs)
