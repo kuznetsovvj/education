@@ -20,13 +20,13 @@ class MinStack():
 
 a = MinStack()
 for _ in range(int(input())):
-    s = tuple(map(int, input().split()))
-    if s[0] == 1:
-        a.add(s[1])
+    s = input()
+    if s[0] == '1':
+        a.add(int(s[2:]))
         continue
-    if s[0] == 2:
+    if s[0] == '2':
         a.detele()
         continue
-    if s[0] == 3:
+    if s[0] == '3':
         print(a.getmin())
               
