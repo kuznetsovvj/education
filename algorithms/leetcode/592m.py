@@ -7,7 +7,7 @@ def fractionAddition(expression):
     state = 'sign'
     current_numerator = 0
     current_denominator = 0
-    value_numerator = 0S
+    value_numerator = 0
     value_denominator = 1
     for i in expression:
         if state == 'sign':
@@ -60,8 +60,8 @@ def fractionAddition(expression):
     return f"{value_numerator}/{value_denominator}"
                 
 
-#assert fractionAddition("-1/2+1/2") == "0/1"
-#assert fractionAddition("-1/2+1/2+1/3") == "1/3"
+assert fractionAddition("-1/2+1/2") == "0/1"
+assert fractionAddition("-1/2+1/2+1/3") == "1/3"
 assert fractionAddition("1/3-1/2") == "-1/6"
 
     
