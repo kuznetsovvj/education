@@ -1019,6 +1019,41 @@ x^2 + 4x + 4 = x^2 - 2016.
 
 \textbf{Ответ:} 11.
 
+\subsubsection*{Задача 59}
+\textbf{Сколько существует пятизначных чисел вида $\overline{ab16c}$, кратных 16? (Здесь $a$, $b$, $c$ — произвольные цифры, не обязательно различные.)}
+
+\textbf{Решение:}
+Число имеет вид $\overline{ab16c} = \overline{ab1} \cdot 100 + \overline{6c}$. Обозначим $N = \overline{ab1}$. Тогда условие делимости на 16:
+\[
+100N + \overline{6c} \equiv 0 \pmod{16}.
+\]
+Так как $100 \equiv 4 \pmod{16}$:
+\[
+4N + \overline{6c} \equiv 0 \pmod{16}.
+\]
+
+\textbf{Случай $c=0$:} $\overline{6c} = 60 \equiv 12 \pmod{16}$.
+\[
+4N + 12 \equiv 0 \pmod{16} \Rightarrow 4N \equiv 4 \pmod{16} \Rightarrow N \equiv 1 \pmod{4}.
+\]
+$N = \overline{ab1}$ оканчивается на 1, значит $N \equiv 1 \pmod{4}$ всегда. Подходят все $a$ (1–9) и $b$ (0–9): $9 \cdot 10 = 90$ чисел.
+
+\textbf{Случай $c=4$:} $\overline{6c} = 64 \equiv 0 \pmod{16}$.
+\[
+4N \equiv 0 \pmod{16} \Rightarrow N \equiv 0 \pmod{4}.
+\]
+$N = \overline{ab1}$, последние две цифры $b1$. Ни одно $b1$ не делится на 4. Решений нет.
+
+\textbf{Случай $c=8$:} $\overline{6c} = 68 \equiv 4 \pmod{16}$.
+\[
+4N + 4 \equiv 0 \pmod{16} \Rightarrow 4N \equiv 12 \pmod{16} \Rightarrow N \equiv 3 \pmod{4}.
+\]
+$b1 \equiv 3 \pmod{4}$ при $b \in \{1, 3, 5, 7, 9\}$ — 5 вариантов. $a$ от 1 до 9 — 9 вариантов. Итого $5 \cdot 9 = 45$ чисел.
+
+Всего: $90 + 45 = 135$ чисел.
+
+\textbf{Ответ:} 135.
+
 \subsection*{Отложенные задачи}
 
 \subsubsection*{Задача 10}
