@@ -6,13 +6,13 @@
 
 Все задачи сгруппированы по темам (беседам) и разделам. Для каждой задачи приведено полное условие и подробное решение, оформленное в LaTeX.
 
-- **Беседа 1:** Примеры и контрпримеры.
-- **Беседа 2:** Свойства делимости
-- **Беседа 3:** Простые и составные числа. Делители числа.
-- **Беседа 4:** Десятичная запись числа.
-- **Беседа 5:** Признаки делимости.
-- **Беседа 6:** Уравнения в целых числах.
-- **Беседа 7:** Остатки.
+- [**Беседа 1:** Примеры и контрпримеры.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch1.pdf)
+- [**Беседа 2:** Свойства делимости](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch2.pdf)
+- [**Беседа 3:** Простые и составные числа. Делители числа.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch3.pdf)
+- [**Беседа 4:** Десятичная запись числа.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch4.pdf)
+- [**Беседа 5:** Признаки делимости.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch5.pdf)
+- [**Беседа 6:** Уравнения в целых числах.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch6.pdf)
+- [**Беседа 7:** Остатки.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch7.pdf)
 - **Задачник**
 - **Задачи из экзаменов и олимпиад**
 - **Задача 19 на профильном ЕГЭ по математике**
