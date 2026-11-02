@@ -15,7 +15,7 @@
 - [**Беседа 5:** Признаки делимости.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch5.pdf)
 - [**Беседа 6:** Уравнения в целых числах.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch6.pdf)
 - [**Беседа 7:** Остатки.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch7.pdf)
-- **Задачник**
+- [**Задачник**](/mathbook/wolfson-divisibility/solutions-wolfson-divisivility-ex.tex)
 - **Задачи из экзаменов и олимпиад**
 - **Задача 19 на профильном ЕГЭ по математике**
 
