@@ -17,7 +17,7 @@
 - [**Беседа 7:** Остатки.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch7.pdf)
 - [**Задачник**](/mathbook/wolfson-divisibility/solutions-wolfson-divisivility-ex.tex)
 - **Задачи из экзаменов и олимпиад**
-- **Задача 19 на профильном ЕГЭ по математике**
+- [**Задача 19 на профильном ЕГЭ по математике**](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-19ege.pdf)
 
 ## 🛠 Инструменты
 
