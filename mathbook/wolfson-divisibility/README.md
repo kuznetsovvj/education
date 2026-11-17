@@ -16,7 +16,7 @@
 - [**Беседа 6:** Уравнения в целых числах.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch6.pdf)
 - [**Беседа 7:** Остатки.](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-ch7.pdf)
 - [**Задачник**](/mathbook/wolfson-divisibility/solutions-wolfson-divisivility-ex.tex)
-- **Задачи из экзаменов и олимпиад**
+- [**Задачи из экзаменов и олимпиад**](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-olymp.pdf)
 - [**Задача 19 на профильном ЕГЭ по математике**](/mathbook/wolfson-divisibility/pdfs/solutions-wolfson-divisibility-19ege.pdf)
 
 ## 🛠 Инструменты
